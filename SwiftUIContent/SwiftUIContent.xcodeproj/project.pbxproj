@@ -29,9 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		52B141142D5DFF8E00DAEA05 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
 		52D85F2C2D5CEFC8009C33F3 = {
 			isa = PBXGroup;
 			children = (
+				52D8688A2D5E157500C95344 /* New Group */,
+				52B141142D5DFF8E00DAEA05 /* Views */,
 				52D85F372D5CEFC8009C33F3 /* SwiftUIContent */,
 				52D85F362D5CEFC8009C33F3 /* Products */,
 			);
@@ -43,6 +52,13 @@
 				52D85F352D5CEFC8009C33F3 /* SwiftUIContent.app */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		52D8688A2D5E157500C95344 /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
