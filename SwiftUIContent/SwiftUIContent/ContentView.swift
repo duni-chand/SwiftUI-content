@@ -31,13 +31,6 @@ struct ContentView: View {
                 }
                 .tag(Tab.list)
         }
-        //LandmarkList()
-        //BadgeBackground()
-        //        Text("Hello there")
-        //            .font(Font.system(size: 32.0))
-        //            .fontWeight(.bold)
-        //            .multilineTextAlignment(.center)
-        //            .clipped()
         
     }
 }
